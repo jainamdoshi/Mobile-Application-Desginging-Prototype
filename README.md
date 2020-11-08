@@ -13,6 +13,7 @@ Part 3 is about building the application prototype and testing. This part includ
 
 ## Links 
 Prototype: https://www.figma.com/proto/fxgnZFbELEe0AFVeLkGypn/UCD-FINAL-PROTOTYPE?node-id=62%3A2&scaling=min-zoom
+
 Implementation of the prototype: https://www.figma.com/file/fxgnZFbELEe0AFVeLkGypn/UCD-FINAL-PROTOTYPE?node-id=0%3A1
 
 ## Credits
