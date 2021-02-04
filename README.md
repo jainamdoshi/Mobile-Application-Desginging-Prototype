@@ -1,4 +1,4 @@
-# Mobile-Application-Desginging-Prototype
+# Mobile-Application-Desgning-Prototype
 
 This is a team project and consisted of 3 Parts:
 
